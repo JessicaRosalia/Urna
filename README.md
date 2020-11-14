@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://github.com/jessicarf18/Urna/blob/master/images/images-readme/gif-readme.gif" alt="animated GIF of the ballot box">
 </p>
-
 <h2>Technologies</h2>
 - HTML <br>
 - CSS <br>
